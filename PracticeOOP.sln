@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeOOP", "PracticeOOP\PracticeOOP.csproj", "{F3AE26CE-855C-417C-BFB4-048A93E482D5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PracticeOOP", "PracticeOOP\PracticeOOP.csproj", "{F3AE26CE-855C-417C-BFB4-048A93E482D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolymorphismExercise", "PolymorphismExercise\PolymorphismExercise.csproj", "{ABDCDB38-E139-470E-ACF5-E986511686EC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{F3AE26CE-855C-417C-BFB4-048A93E482D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3AE26CE-855C-417C-BFB4-048A93E482D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3AE26CE-855C-417C-BFB4-048A93E482D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABDCDB38-E139-470E-ACF5-E986511686EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABDCDB38-E139-470E-ACF5-E986511686EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABDCDB38-E139-470E-ACF5-E986511686EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABDCDB38-E139-470E-ACF5-E986511686EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -35,6 +35,7 @@ namespace PracticeOOP
             get { return grade; }
         }
 
+        
         public Student(string name, double grade)
         {
             Name = name;
